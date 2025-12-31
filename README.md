@@ -16,9 +16,6 @@
 
 - 🎓 I’m currently a **Software Engineering Student**.
 - 👀 I’m interested in **Web Development** (Frontend & Backend).
-- 🌱 I’m currently learning **Java Object Oriented Programming**.
-- 🚀 I just launched my first project: [**Kosanku**](https://github.com/AigrettaM/Kosanku) (A Boarding House Management App).
-- ⚡ Fun fact: I love turning coffee into code.
 
 ---
 
@@ -35,17 +32,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AigrettaM&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AigrettaM&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center"> 
-  <a href="https://linkedin.com/in/USERNAME-KAMU" target="_blank">
+### 🏆 Contact me
+<div align="left">
+  <a href="https://linkedin.com/in/aigretta-maharani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
